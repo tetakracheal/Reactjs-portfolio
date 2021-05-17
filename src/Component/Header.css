@@ -1,0 +1,12 @@
+.header-container{
+    weight:100%;
+    height:100px;
+    background-color:rgb(116,66,31);
+text-align:center;
+}
+.logo-container{
+    background:white;
+    width:10%;
+    height:12px
+
+}
